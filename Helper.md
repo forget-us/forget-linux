@@ -1,1 +1,4 @@
-1、收录的不错的别人的repository : https://github.com/judasn/Linux-Tutorial
+1、收录的不错的别人的repository :
+    https://github.com/judasn/Linux-Tutorial
+    https://youmeek.gitbooks.io/linux-tutorial/content/
+ 
