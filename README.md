@@ -1,1 +1,1 @@
-# forget-linux
+# 记录一下自己的linux学习笔记 方便查询使用
